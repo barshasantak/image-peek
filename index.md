@@ -1,14 +1,14 @@
 <!-- =========================================================================
-     IMAGEPEEK PUBLIC WEBSITE
+     IMAGE-PEEK PUBLIC WEBSITE
      Design by Tara Design Studio
 ========================================================================= -->
 
 ## 🎹 The Hero Section
-![ImagePeek](https://raw.githubusercontent.com/barshasantak/imagepeek/main/ImagePeek_256.png)
+![Image-Peek](https://raw.githubusercontent.com/barshasantak/image-peek/main/ImagePeek_256.png)
 <br>
 
 
-### See Beneath the Pixel with ImagePeek.
+### See Beneath the Pixel with Image-Peek.
 Native, high-performance image specification analyzer, deep EXIF/optical inspector, and A-B image comparator for macOS
        
     ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -40,7 +40,7 @@ Native, high-performance image specification analyzer, deep EXIF/optical inspect
 
 ## 📖 The Product Story
 
-### *Why we built ImagePeek*
+### *Why we built Image-Peek*
 
 In modern digital photography, graphic design, print publishing, and web development, managing visual assets is fraught with hidden complexities:
 
@@ -52,7 +52,7 @@ In modern digital photography, graphic design, print publishing, and web develop
 
 We asked a simple question: **What if you had a blazing-fast, visually pristine Mac app that reveals the complete DNA of any image file in under 200 milliseconds?**
 
-ImagePeek was created at **Tara Design Studio** to answer that need. Built from the ground up in 100% native Swift and SwiftUI, ImagePeek taps directly into Apple’s low-level `ImageIO`, `CoreGraphics`, and `CryptoKit` frameworks. No web runtimes. No full-bitmap RAM bloat. Just pure, instant visual intelligence.
+Image-Peek was created at **Tara Design Studio** to answer that need. Built from the ground up in 100% native Swift and SwiftUI, Image-Peek taps directly into Apple’s low-level `ImageIO`, `CoreGraphics`, and `CryptoKit` frameworks. No web runtimes. No full-bitmap RAM bloat. Just pure, instant visual intelligence.
 
 
 
@@ -72,7 +72,7 @@ ImagePeek was created at **Tara Design Studio** to answer that need. Built from 
   <tr>    
     <td width="50%" valign="top">
       <h3>⚖️ Side-by-Side A-B Image Comparator</h3>
-      <p>Compare two images simultaneously. ImagePeek aligns property keys and instantly highlights dimension scaling, megapixel deltas, color gamut shifts, and missing IPTC copyright tags.</p>
+      <p>Compare two images simultaneously. Image-Peek aligns property keys and instantly highlights dimension scaling, megapixel deltas, color gamut shifts, and missing IPTC copyright tags.</p>
     </td>
      <td width="50%" valign="top">
       <h3>🗺️ GPS Telemetry & One-Click Maps</h3>
@@ -105,7 +105,7 @@ ImagePeek was created at **Tara Design Studio** to answer that need. Built from 
 
 ## 🎯 Universal Image Format Support
 
-ImagePeek parses professional RAW camera masters, vector graphics, print containers, and next-gen web images:
+Image-Peek parses professional RAW camera masters, vector graphics, print containers, and next-gen web images:
 
 | Category | Supported Formats & Containers |
 | :--- | :--- |
@@ -115,16 +115,16 @@ ImagePeek parses professional RAW camera masters, vector graphics, print contain
 | **Print, Prepress & Animation** | **Tagged Image File Format** (`.tiff`, `.tif` in 8/16/32-bit RGB & CMYK), **Graphics Interchange Format** (`.gif` with frame counts) |
 
 
-## 🏆 Why ImagePeek is Different
+## 🏆 Why Image-Peek is Different
 
-Most image inspection utilities are either bloated photo managers or terminal scripts. ImagePeek is built exclusively for macOS:
+Most image inspection utilities are either bloated photo managers or terminal scripts. Image-Peek is built exclusively for macOS:
 
 <div style="overflow-x: auto; margin: 24px 0;">
   <table style="width: 100%; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 0.9rem; text-align: left; border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden;">
     <thead>
       <tr style="background: rgba(128,128,128,0.1); border-bottom: 2px solid rgba(128,128,128,0.25);">
         <th style="padding: 12px 16px; width: 30%;">Capability / Metric</th>
-        <th style="padding: 12px 16px; width: 25%; background: rgba(0, 113, 227, 0.08); color: #0071e3; font-weight: 700;">ImagePeek</th>
+        <th style="padding: 12px 16px; width: 25%; background: rgba(0, 113, 227, 0.08); color: #0071e3; font-weight: 700;">Image-Peek</th>
         <th style="padding: 12px 16px; width: 25%;">Adobe Bridge / PS</th>
         <th style="padding: 12px 16px; width: 20%;">ExifTool (CLI)</th>
       </tr>
@@ -180,10 +180,10 @@ Most image inspection utilities are either bloated photo managers or terminal sc
 ## ✨ User Experience Highlights
 
 ### 1. Dual-Drop Compare Mode
-Select two image files in Finder (like your 100 MP medium-format RAW master and your web WebP render) and drag them together onto ImagePeek. The app instantly presents a **two-column comparative diff table**, highlighting mismatches in bold amber and matching parameters in calm green.
+Select two image files in Finder (like your 100 MP medium-format RAW master and your web WebP render) and drag them together onto Image-Peek. The app instantly presents a **two-column comparative diff table**, highlighting mismatches in bold amber and matching parameters in calm green.
 
 ### 2. Quick Shooting Stats & Optical Introspection
-When you load a photo containing EXIF headers, ImagePeek immediately shows an **`EXIF`** badge and a shooting summary pill (`📷 50mm • ƒ/2.8 • 1/500s • ISO 100`) directly in the header banner.
+When you load a photo containing EXIF headers, Image-Peek immediately shows an **`EXIF`** badge and a shooting summary pill (`📷 50mm • ƒ/2.8 • 1/500s • ISO 100`) directly in the header banner.
 
 ### 3. Interactive GPS Map Integration
 Clicking the **View Map** button next to any decimal GPS coordinate immediately opens **Apple Maps** at the exact geolocation where the photograph was captured.
@@ -212,22 +212,22 @@ Stop guessing what is inside your image files. Verify color profiles, confirm bi
 <!-- Question 1 -->
 <details style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden; background: rgba(128,128,128,0.02); transition: all 0.2s ease;">
   <summary style="padding: 14px 18px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; font-size: 1rem; list-style: none;">
-    <span>Which EXIF and camera metadata tags does ImagePeek inspect?</span>
+    <span>Which EXIF and camera metadata tags does Image-Peek inspect?</span>
     <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
   </summary>
   <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
-    ImagePeek decodes Camera Make &amp; Model, Lens Hardware Model, Camera Body &amp; Lens Serial Numbers, Aperture (ƒ-number), Fractional Shutter Speeds, ISO Sensitivity, Focal Length &amp; 35mm Equivalent, Exposure Bias (EV), Exposure Program (Manual/Av/Tv/AE), Metering Mode, Flash Status bitmasks, White Balance, Orientation, and original capture timestamps with timezone offsets.
+    Image-Peek decodes Camera Make &amp; Model, Lens Hardware Model, Camera Body &amp; Lens Serial Numbers, Aperture (ƒ-number), Fractional Shutter Speeds, ISO Sensitivity, Focal Length &amp; 35mm Equivalent, Exposure Bias (EV), Exposure Program (Manual/Av/Tv/AE), Metering Mode, Flash Status bitmasks, White Balance, Orientation, and original capture timestamps with timezone offsets.
   </div>
 </details>
 
 <!-- Question 2 -->
 <details style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden; background: rgba(128,128,128,0.02); transition: all 0.2s ease;">
   <summary style="padding: 14px 18px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; font-size: 1rem; list-style: none;">
-    <span>Does ImagePeek alter, strip, or recompress my images?</span>
+    <span>Does Image-Peek alter, strip, or recompress my images?</span>
     <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
   </summary>
   <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
-    No. ImagePeek operates strictly in <strong>read-only mode</strong>. It inspects metadata dictionaries and image stream headers without modifying a single pixel or byte of your files.
+    No. Image-Peek operates strictly in <strong>read-only mode</strong>. It inspects metadata dictionaries and image stream headers without modifying a single pixel or byte of your files.
   </div>
 </details>
 
@@ -238,18 +238,18 @@ Stop guessing what is inside your image files. Verify color profiles, confirm bi
     <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
   </summary>
   <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
-    ImagePeek maintains rolling daily logs formatted as <code>imagepeek-YYYY-MM-DD.log</code>. You can reveal your log folder directly in Finder anytime by pressing <kbd style="background: rgba(128,128,128,0.15); padding: 2px 6px; border-radius: 4px; font-family: monospace;">⇧ + ⌘ + L</kbd> (or via <strong>Help → Show Logs in Finder</strong>).
+    Image-Peek maintains rolling daily logs formatted as <code>image-peek-YYYY-MM-DD.log</code>. You can reveal your log folder directly in Finder anytime by pressing <kbd style="background: rgba(128,128,128,0.15); padding: 2px 6px; border-radius: 4px; font-family: monospace;">⇧ + ⌘ + L</kbd> (or via <strong>Help → Show Logs in Finder</strong>).
   </div>
 </details>
 
 <!-- Question 4 -->
 <details style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden; background: rgba(128,128,128,0.02); transition: all 0.2s ease;">
   <summary style="padding: 14px 18px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; font-size: 1rem; list-style: none;">
-    <span>Is ImagePeek private?</span>
+    <span>Is Image-Peek private?</span>
     <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
   </summary>
   <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
-    Yes. ImagePeek is <strong>100% secure</strong>. It contains zero analytics, no telemetry, no tracking, and never makes unauthorized network connections.
+    Yes. Image-Peek is <strong>100% secure</strong>. It contains zero analytics, no telemetry, no tracking, and never makes unauthorized network connections.
   </div>
 </details>
 
