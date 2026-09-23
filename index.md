@@ -38,6 +38,8 @@ Native, high-performance image specification analyzer, deep EXIF/optical inspect
     │ GPS Decimal 37.774900, -122.419400 [MATCH] 37.774900, -122.419400 [🗺️ View Map]                              │
     └──────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
+
+
 ## 📖 The Product Story
 
 ### *Why we built Image-Peek*
