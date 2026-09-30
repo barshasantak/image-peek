@@ -4,7 +4,7 @@
 ========================================================================= -->
 
 ## 🎹 The Hero Section
-![Image-Peek](https://raw.githubusercontent.com/barshasantak/image-peek/main/ImagePeek_256.png)
+![Image-Peek](https://raw.githubusercontent.com/barshasantak/image-peek/main/ImagePeek_128.png)
 <br>
 
 
