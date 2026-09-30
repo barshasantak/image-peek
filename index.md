@@ -11,10 +11,11 @@
 ### See Beneath the Pixel with Image-Peek.
 Native, high-performance image specification analyzer, deep EXIF/optical inspector, and A-B image comparator for macOS
 <br>
-![Image-Peek-002](https://raw.githubusercontent.com/barshasantak/image-peek/main/Image_Peek_002.png)
+![Image-Peek-002](https://raw.githubusercontent.com/barshasantak/image-peek/main/Image-Peek-002.png)
 <br>
-![Image-Peek-003](https://raw.githubusercontent.com/barshasantak/image-peek/main/Image_Peek_003.png)
+![Image-Peek-003](https://raw.githubusercontent.com/barshasantak/image-peek/main/Image-Peek-003.png)
 <br>
+
     ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
     │ 📂 Open... │ ⚖️ Compare... │ 💾 Export JSON │ 📋 Copy │ [Font: A- 100% A+ ↺] 🔍 Filter specs, EXIF, GPS...  │
     ├──────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
