@@ -3,7 +3,7 @@
      Design by Tara Design Studio
 ========================================================================= -->
 
-## 🎹 The Hero Section
+## 📷 The Hero Section
 ![Image-Peek](https://raw.githubusercontent.com/barshasantak/image-peek/main/ImagePeek_128.png)
 <br>
 
