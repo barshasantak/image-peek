@@ -244,6 +244,10 @@ Stop guessing what is inside your image files. Verify color profiles, confirm bi
 
 </div>
 
+<br>
+
+#### Please check out the other peek-apps: [Audio-Peek](https://barshasantak.github.io/audio-peek/) and [Video-Peek](https://barshasantak.github.io/video-peek/)
+
  <br>
  
  <hr>
